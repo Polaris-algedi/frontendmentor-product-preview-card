@@ -159,7 +159,7 @@ body {
   background-color: var(--green-700);
 }
 
-@media (min-width: 768px) {
+@media (min-width: 48rem) {
   .product-preview-card {
     display: grid;
     width: var(--content-desktop-width);
