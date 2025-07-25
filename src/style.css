@@ -60,10 +60,8 @@
 body {
   font-family: var(--font-family);
   font-size: var(--font-size-base);
-  line-height: var(--line-height-base);
   color: var(--stone-600);
   background-color: var(--cream);
-
   min-height: 100vh;
   display: flex;
   align-items: center;
@@ -105,7 +103,7 @@ body {
   font-family: var(--font-family-serif);
   font-weight: var(--font-weight-bold);
   font-size: var(--font-size-2xl);
-  line-height: 1.33;
+  line-height: 1;
 }
 
 .product-info p {
